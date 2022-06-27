@@ -6,8 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=Al-Abramov)
 </h3>
 
-<p align="left">I have been studying front-end technologies for 1.5 years. I completed a course on JavaScript and React in The Rolling Scopes School, 
-as well as improving my knowledge on my own.</p>
+<p align="left"></p>
 
 My goal is to become a skilled developer.
 
