@@ -94,7 +94,8 @@ A project management system is an application that helps an individual in a team
 
 Command task in which I implemented:
 - Settings CRA
-- Main mage(create and delete board)
+- hook useModal (single hooke for all modal window)
+- Main page(create and delete board)
 - Board page(create, update and delete columns, create, update and delete tasks)
 
 When developing this application, librarys and tools were used:
