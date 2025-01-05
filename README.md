@@ -8,7 +8,6 @@
 
 <p align="left"></p>
 
-My goal is to become a skilled developer.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>  
